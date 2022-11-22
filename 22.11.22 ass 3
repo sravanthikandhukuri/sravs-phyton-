@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+a=a+b
+b=a-b
+a=a-b
+print('a value:',a)
+print('b value:',b)
+Output:-3
+4
+a value: 4
+b value: 3
