@@ -1,0 +1,10 @@
+def func1(a,b):
+    if (a > b):
+        print("a is big")
+    else:
+        print("b is big")
+
+print("Find which number is greater")
+num1 = input("Enter the a number: ")
+num2 = input("Enter the b number: ")
+func1(num1,num2)
