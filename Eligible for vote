@@ -1,0 +1,9 @@
+def func1(age):
+    if (age>=18):
+        print("yes")
+    else:
+        print("no")
+
+print("person is eligible for vote are not")
+num1 = int(input("Enter your age:"))
+func1(num1)
